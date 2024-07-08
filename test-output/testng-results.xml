@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-05T17:56:16 IST" name="Default suite" finished-at="2024-07-05T17:56:30 IST" duration-ms="13771">
+    <groups>
+    </groups>
+    <test started-at="2024-07-05T17:56:16 IST" name="Default test" finished-at="2024-07-05T17:56:30 IST" duration-ms="13771">
+      <class name="testcases.Devnagri_testcase">
+        <test-method signature="Devnagri_register()[pri:0, instance:testcases.Devnagri_testcase@2af004b]" started-at="2024-07-05T17:56:16 IST" name="Devnagri_register" finished-at="2024-07-05T17:56:30 IST" duration-ms="13718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Devnagri_register -->
+      </class> <!-- testcases.Devnagri_testcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
